@@ -45,7 +45,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="120" height="40">
 </a>
 <a href="https://nestjs.com/">
-  <img src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png" alt="NestJS" width="55" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="55" height="40">
 </a>
 <a href="https://flask.palletsprojects.com/">
   <img src="https://digitalhumanity.co.za/wp-content/uploads/Flask-white.png.webp" alt="Flask" width="40" height="40">
