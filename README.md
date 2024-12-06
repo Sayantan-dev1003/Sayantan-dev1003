@@ -103,6 +103,6 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=dark&no-frame=true&title=Followers,Stars,Commit,Repositories)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=blue-green&no-frame=true&title=Followers,Stars,Commit,Repositories)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight)
 ![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&count_private=true&hide=prs&theme=prussian)
