@@ -27,7 +27,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
 </a>
 <a href="https://nextjs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="100" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Nextjs-logo-light.svg" alt="Next.js" width="100" height="40">
 </a> 
 <a href="https://nodejs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
