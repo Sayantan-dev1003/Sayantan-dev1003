@@ -24,7 +24,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
 </a>
 <a href="https://tailwindcss.com/">
-  <img src="https://en.m.wikipedia.org/wiki/File:Tailwind_CSS_logo.svg#/media/File%3ATailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="Tailwind CSS" width="40" height="40">
 </a>
 <a href="https://reactjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
