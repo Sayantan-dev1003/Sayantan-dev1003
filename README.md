@@ -100,3 +100,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 <a href="mailto:sayantanhalder@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="55" height="40">
 </a>
+
+---
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=dark&no-frame=true&title=Followers,Stars,Commit,Repositories)
