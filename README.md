@@ -12,7 +12,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 
 ---
 
-### 💻 Skills & Expertise
+### 💻 **Skills & Tools**
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
@@ -89,3 +89,9 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 <a href="https://www.figma.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
 </a>
+
+---
+
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
