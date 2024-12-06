@@ -94,5 +94,9 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 ---
 
 ### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<a href="https://www.linkedin.com/in/sayantan-halder/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:sayantanhalder@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+</a>
