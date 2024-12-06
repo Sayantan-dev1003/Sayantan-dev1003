@@ -13,8 +13,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 ---
 
 ### 💻 Skills & Expertise
-
-#### **Programming Languages**  
+ 
 <a href="https://www.javascript.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
 </a>
@@ -24,8 +23,6 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 <a href="https://isocpp.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
 </a>
- 
-#### **Frontend Development**  
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
 </a>
@@ -37,9 +34,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 </a>
 <a href="https://nextjs.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Nextjs-logo-light.svg" alt="Next.js" width="100" height="40">
-</a>
-
-#### **Backend Development**  
+</a> 
 <a href="https://nodejs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
 </a>
@@ -48,17 +43,13 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 </a>
 <a href="https://flask.palletsprojects.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40">
-</a>
-
-#### **Database Management**  
+</a> 
 <a href="https://www.mongodb.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
 </a>
 <a href="https://www.mysql.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
 </a>
-
-#### **Machine Learning**  
 <a href="https://scikit-learn.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40">
 </a>
@@ -70,9 +61,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 </a>
 <a href="https://matplotlib.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg" alt="Matplotlib" width="40" height="40">
-</a>
-
-#### **Cloud & DevOps**  
+</a> 
 <a href="https://cloud.google.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Cloud_logo.svg" alt="Google Cloud" width="40" height="40">
 </a>
@@ -82,8 +71,6 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 <a href="https://git-scm.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
 </a>
-
-#### **Tools & Platforms**  
 <a href="https://code.visualstudio.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
 </a>
