@@ -15,12 +15,12 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 ### 💻 Skills & Expertise
 
 #### **Programming Languages**  
-[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png)](https://www.javascript.com/)  
-[![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org/)  
-[![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)](https://isocpp.org/)
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
+[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
 
 #### **Frontend Development**  
-[![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)](https://reactjs.org/)  
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)  
 [![Next.js](https://upload.wikimedia.org/wikipedia/commons/a/a0/Nextjs-logo.svg)](https://nextjs.org/)  
 [![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)](https://tailwindcss.com/)  
 [![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap-Logo.svg)](https://getbootstrap.com/)
