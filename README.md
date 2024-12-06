@@ -42,7 +42,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
 </a>
 <a href="https://expressjs.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="70" height="40">
+  <img src="https://imgur.com/a/zPRYkVu" alt="Express.js" width="70" height="40">
 </a>
 <a href="https://nestjs.com/">
   <img src="logo-small-gradient.d792062c.svg" alt="NestJS" width="40" height="40">
