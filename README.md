@@ -1,5 +1,5 @@
-# **Hi there, I'm Sayantan Halder!** 👋
-### 🚀 Computer Engineering Student | MERN Stack Developer | Cloud Computing Enthusiast 
+<h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
+<p align="center"> 🚀 Computer Engineering Student | MERN Stack Developer | Cloud Computing Enthusiast </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
@@ -104,3 +104,4 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 ---
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=dark&no-frame=true&title=Followers,Stars,Commit,Repositories)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=dark)
