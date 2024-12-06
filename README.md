@@ -15,37 +15,37 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 ### 💻 Skills & Expertise  
 
 #### **Programming Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black)  
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.png)  
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)  
 
 #### **Frontend Development**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)  
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)  
+![Next.js](https://upload.wikimedia.org/wikipedia/commons/a/a0/Nextjs-logo.svg)  
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)  
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap-Logo.svg)  
 
 #### **Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)  
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg)  
+![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)  
+![Flask](https://upload.wikimedia.org/wikipedia/commons/1/1d/Flask_logo.svg)  
 
 #### **Database Management**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)  
+![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/4c/MongoDB-Logo.svg)  
+![MySQL](https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg)  
 
 #### **Machine Learning**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=black)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=black)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=black)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white&labelColor=black)  
+![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)  
+![NumPy](https://upload.wikimedia.org/wikipedia/commons/0/0f/NumPy_logo_2020.svg)  
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)  
+![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg)  
 
 #### **Cloud & DevOps**  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)  
+![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Cloud_logo.svg)  
+![Docker](https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png)  
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)  
 
 #### **Tools & Platforms**  
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black)  
+![VS Code](https://upload.wikimedia.org/wikipedia/commons/3/39/Visual_Studio_Code_1.35_icon.svg)  
+![Postman](https://upload.wikimedia.org/wikipedia/commons/9/93/Postman_Logo.svg)  
+![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)
