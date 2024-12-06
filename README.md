@@ -27,7 +27,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60" height="40">
 </a>
 <a href="https://greensock.com/gsap/">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="GSAP" width="40" height="40">
+  <img src="https://x.com/greensock/photo" alt="GSAP" width="40" height="40">
 </a>
 <a href="https://threejs.org/">
   <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="Three.js" width="40" height="40">
