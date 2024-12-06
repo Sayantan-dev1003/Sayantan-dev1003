@@ -23,7 +23,6 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 <a href="https://isocpp.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
 </a>
-#### **Frontend Development**  
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
 </a>
@@ -34,7 +33,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
 </a>
 <a href="https://nextjs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextjs-logo.svg" alt="Next.js" width="100" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Nextjs-logo.svg" alt="Next.js" width="100" height="40">
 </a> 
 <a href="https://nodejs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
