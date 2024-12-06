@@ -26,32 +26,70 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 </a>
 
 #### **Frontend Development**  
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)  
-[![Next.js](https://upload.wikimedia.org/wikipedia/commons/a/a0/Nextjs-logo.svg)](https://nextjs.org/)  
-[![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)](https://tailwindcss.com/)  
-[![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap-Logo.svg)](https://getbootstrap.com/)
+<a href="https://reactjs.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
+</a>
+<a href="https://nextjs.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40">
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40">
+</a>
+<a href="https://getbootstrap.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
+</a>
 
 #### **Backend Development**  
-[![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg)](https://nodejs.org/)  
-[![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)](https://expressjs.com/)  
-[![Flask](https://upload.wikimedia.org/wikipedia/commons/1/1d/Flask_logo.svg)](https://flask.palletsprojects.com/)
+<a href="https://nodejs.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40">
+</a>
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40">
+</a>
 
 #### **Database Management**  
-[![MongoDB](https://upload.wikimedia.org/wikipedia/commons/4/4c/MongoDB-Logo.svg)](https://www.mongodb.com/)  
-[![MySQL](https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg)](https://www.mysql.com/)
+<a href="https://www.mongodb.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
+</a>
 
 #### **Machine Learning**  
-[![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/)  
-[![NumPy](https://upload.wikimedia.org/wikipedia/commons/0/0f/NumPy_logo_2020.svg)](https://numpy.org/)  
-[![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)](https://pandas.pydata.org/)  
-[![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg)](https://matplotlib.org/)
+<a href="https://scikit-learn.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40">
+</a>
+<a href="https://numpy.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">
+</a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
+</a>
+<a href="https://matplotlib.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Matplotlib_logo.svg" alt="Matplotlib" width="40" height="40">
+</a>
 
 #### **Cloud & DevOps**  
-[![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Cloud_logo.svg)](https://cloud.google.com/)  
-[![Docker](https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png)](https://www.docker.com/)  
-[![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)](https://git-scm.com/)
+<a href="https://cloud.google.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Cloud_logo.svg" alt="Google Cloud" width="40" height="40">
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+</a>
 
 #### **Tools & Platforms**  
-[![VS Code](https://upload.wikimedia.org/wikipedia/commons/3/39/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/)  
-[![Postman](https://upload.wikimedia.org/wikipedia/commons/9/93/Postman_Logo.svg)](https://www.postman.com/)  
-[![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)](https://www.figma.com/)
+<a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" width="40" height="40">
+</a>
+<a href="https://www.figma.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
+</a>
