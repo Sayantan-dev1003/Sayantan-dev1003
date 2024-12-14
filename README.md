@@ -73,7 +73,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
 </a>
 <a href="https://aws.amazon.com/">
-  <img src="https://www.seekpng.com/png/detail/328-3284428_copyright-2017-facebook-inc-aws-logo.png" alt="AWS" width="60" height="40">
+  <img src="https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png" alt="AWS" width="60" height="40">
 </a>
 <a href="https://git-scm.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
