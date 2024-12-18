@@ -6,7 +6,7 @@
 
 I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmedabad, with a strong passion for web development and innovation. Skilled in MERN stack development, I focus on creating impactful and practical projects that address real-world challenges.
 - 🔭 I’m currently working on **EcoVision: AI for Urban Green Space Optimization**
-- 🌱 I’m currently learning Cloud Computing with Google Cloud Platforms
+- 🌱 I’m currently learning Cloud Computing with Amazon Web Services
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
 - 👨‍💻 All of my projects are available at https://github.com/Sayantan-dev1003/
 - 📫 How to reach me: sayantanhalder78@gmail.com
