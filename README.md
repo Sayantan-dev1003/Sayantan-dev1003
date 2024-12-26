@@ -10,7 +10,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
 - 👨‍💻 All of my projects are available at https://github.com/Sayantan-dev1003/
 - 📫 How to reach me: sayantanhalder78@gmail.com
-- 📃 My resume: https://drive.google.com/file/d/1ii1M08_LXxZg3RmIaL6fh4wE6eswAeeB/view?usp=drivesdk
+- 📃 My resume: https://drive.google.com/file/d/1mIa3tPMndVn5CIjfWRJT_yH88zW1unmh/view?usp=drive_link
 
 ---
 
