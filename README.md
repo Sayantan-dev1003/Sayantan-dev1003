@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
-<p align="center"> 🚀 Computer Engineering Student | MERN Stack Developer | Cloud Computing Enthusiast </p>
+<p align="center"> 🚀 Computer Engineering Student | Full Stack Web Developer | Provide AWS Cloud Services </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
 
-I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmedabad, with a strong passion for web development and innovation. Skilled in MERN stack development, I focus on creating impactful and practical projects that address real-world challenges.
+I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmedabad, with a strong passion for web development and innovation. Skilled in Full stack web development, I focus on creating impactful and practical projects that address real-world challenges.
 - 🔭 I’m currently working on **EcoVision: AI for Urban Green Space Optimization**
 - 🌱 I’m currently learning Cloud Computing with Amazon Web Services
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
