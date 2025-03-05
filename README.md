@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
-<p align="center"> 🚀 Computer Engineering Student | Full Stack Web Developer | Provide AWS Cloud Services </p>
+<p align="center"> 💻 Computer Engineering Student | Aspiring AI Software Engineer | Full Stack Web Developer | AI/ML & Data Science Enthusiast | Provide AWS Cloud Services | Competitive Programmer | Tech Innovator </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
