@@ -28,32 +28,32 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 <a href="https://tailwindcss.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60" height="40">
 </a>
-<a href="https://greensock.com/gsap/">
-  <img src="https://pbs.twimg.com/profile_images/1713633504431394816/h28jJ1qM_400x400.jpg" alt="GSAP" width="55" height="40">
-</a>
-<a href="https://threejs.org/">
-  <img src="https://grant-bartlett.com/build/assets/three-25cfa581.webp" alt="Three.js" width="55" height="40">
-</a>
 <a href="https://reactjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
 </a>
 <a href="https://nextjs.org/">
   <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" width="60" height="40">
 </a> 
+<a href="https://redux-toolkit.js.org/">
+  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux" width="60" height="40">
+</a>
 <a href="https://nodejs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
 </a>
 <a href="https://expressjs.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="100" height="40">
 </a>
-<a href="https://nestjs.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40" height="40">
-</a>
 <a href="https://flask.palletsprojects.com/">
   <img src="https://digitalhumanity.co.za/wp-content/uploads/Flask-white.png.webp" alt="Flask" width="40" height="40">
 </a> 
 <a href="https://www.mongodb.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
+</a>
+<a href="https://www.prisma.io/">
+  <img src="https://prismalens.vercel.app/header/logo-white.svg" alt="Prisma" width="40" height="40">
+</a>
+<a href="https://supabase.com/">
+  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="40" height="40">
 </a>
 <a href="https://www.python.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
@@ -70,6 +70,15 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 <a href="https://pandas.pydata.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
 </a>
+<a href="https://seaborn.pydata.org/">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="40">
+</a>
+<a href="https://opencv.org/">
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="70" height="40">
+</a>
+<a href="https://www.tensorflow.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TenserFlow" width="70" height="40">
+</a>
 <a href="https://isocpp.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
 </a>
@@ -81,9 +90,6 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
 </a>
 <a href="https://code.visualstudio.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
-</a>
-<a href="https://apidog.com/">
-  <img src="https://assets.apidog.com/static/logo/favicon.ico" alt="Apidog" width="40" height="40">
 </a>
 <a href="https://www.figma.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
