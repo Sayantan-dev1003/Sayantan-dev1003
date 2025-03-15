@@ -50,7 +50,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
 </a>
 <a href="https://www.prisma.io/">
-  <img src="https://prismalens.vercel.app/header/logo-white.svg" alt="Prisma" width="40" height="40">
+  <img src="https://prismalens.vercel.app/header/logo-white.svg" alt="Prisma" width="70" height="40">
 </a>
 <a href="https://supabase.com/">
   <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="40" height="40">
@@ -74,7 +74,7 @@ I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmed
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="40">
 </a>
 <a href="https://opencv.org/">
-  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="70" height="40">
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="40" height="40">
 </a>
 <a href="https://www.tensorflow.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TenserFlow" width="70" height="40">
