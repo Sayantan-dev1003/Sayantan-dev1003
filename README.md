@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
 
-I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring AI Software Engineer and Full Stack Web Developer, I’m passionate about building innovative tech solutions that tackle real-world problems. My interests span AI/ML, data science, AWS cloud services, and competitive programming in C++. I thrive on turning ideas into impactful projects that bridge the gap between creativity and technology.
+I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring AI Product Engineer with a strong foundation in AI/ML and Full Stack Web Development, I’m passionate about creating tech solutions that are not only innovative but also deeply user-centric. My interests span Web Development, AI, AWS cloud services, and competitive programming in C++. I thrive on turning ideas into impactful products that bridge the gap between cutting-edge technology and real-world needs.
 
 - 🔭 I’m currently working on **EcoVision: AI for Urban Green Space Optimization**
 - 🌱 I’m currently learning Cloud Computing with Amazon Web Services
