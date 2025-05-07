@@ -7,7 +7,7 @@
 I am Sayantan Halder, a sophomore pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring AI Product Engineer with a strong foundation in AI/ML and Full Stack Web Development, I’m passionate about creating tech solutions that are not only innovative but also deeply user-centric. My interests span Web Development, AI, AWS cloud services, and competitive programming in C++. I thrive on turning ideas into impactful products that bridge the gap between cutting-edge technology and real-world needs.
 
 - 🔭 I’m currently working on **EcoVision: AI for Urban Green Space Optimization**
-- 🌱 I’m currently learning Cloud Computing with Amazon Web Services
+- 🌱 I’m currently learning Data Analytics and Machine Learning.
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
 - 👨‍💻 All of my projects are available at https://github.com/Sayantan-dev1003/
 - 📫 How to reach me: sayantanhalder78@gmail.com
