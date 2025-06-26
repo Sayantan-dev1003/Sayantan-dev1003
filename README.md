@@ -11,7 +11,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
 - 👨‍💻 All of my projects are available at https://github.com/Sayantan-dev1003/
 - 📫 How to reach me: sayantanhalder78@gmail.com
-- 📃 My resume: https://drive.google.com/file/d/1aH4LijL15OoVdCnj38h0QvGw540g6L0g/view?usp=drive_link
+- 📃 My resume: https://drive.google.com/file/d/1YCc3XIDaumO7QOkthZDFhP8oshUnf3wm/view?usp=drive_link
 
 ---
 
