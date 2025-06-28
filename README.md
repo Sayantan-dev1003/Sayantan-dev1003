@@ -14,9 +14,9 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 
 ---
 
-### 💻 **Skills & Tools**
+## 💻 **Skills & Tools**
 
-#### Languages
+### Languages
 <a href="https://www.javascript.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 </a>
@@ -36,36 +36,36 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
 </a>
 
-## Libraries & Frameworks
-<a href="https://tailwindcss.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60" height="40">
-</a>
+### Libraries & Frameworks
 <a href="https://reactjs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
 </a>
 <a href="https://nextjs.org/">
-  <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" width="60" height="40">
+  <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" width="70" height="50">
 </a> 
 <a href="https://redux-toolkit.js.org/">
-  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux" width="60" height="40">
+  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux" width="70" height="50">
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="70" height="50">
 </a>
 <a href="https://motion.dev/">
-  <img src="https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc" alt="Framer Motion" width="40" height="40">
+  <img src="https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc" alt="Framer Motion" width="50" height="50">
 </a>
 <a href="https://nodejs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
 </a>
 <a href="https://expressjs.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="100" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="120" height="50">
 </a>
 <a href="https://flask.palletsprojects.com/">
-  <img src="https://digitalhumanity.co.za/wp-content/uploads/Flask-white.png.webp" alt="Flask" width="40" height="40">
-</a> 
-<a href="https://www.mongodb.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
+  <img src="https://digitalhumanity.co.za/wp-content/uploads/Flask-white.png.webp" alt="Flask" width="50" height="50">
 </a>
 <a href="https://fastapi.tiangolo.com/">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100" height="40">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="120" height="50">
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
 </a>
 <a href="https://supabase.com/">
   <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="40" height="40">
