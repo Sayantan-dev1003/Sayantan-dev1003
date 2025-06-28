@@ -148,11 +148,3 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://www.reddit.com/user/ReactToNode10/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/375px-Reddit_Logo_Icon.svg.png" alt="Reddit" width="50" height="50">
 </a>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-![Sayantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sayantan-dev1003)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
