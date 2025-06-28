@@ -130,7 +130,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="60" height="50">
 </a>
 <a href="https://leetcode.com/u/vIkgaPmZuL/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/687px-LeetCode_Logo_black_with_text.svg.png" alt="Leetcode" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="Leetcode" width="50" height="50">
 </a>
 <a href="https://www.geeksforgeeks.org/user/sayantanhihnp/" target="_blank">
   <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG" width="50" height="50">
@@ -139,7 +139,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="X" width="50" height="50">
 </a>
 <a href="https://www.reddit.com/user/ReactToNode10/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Reddit_logo_2023.svg/500px-Reddit_logo_2023.svg.png" alt="Reddit" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/375px-Reddit_Logo_Icon.svg.png" alt="Reddit" width="50" height="50">
 </a>
 
 ---
