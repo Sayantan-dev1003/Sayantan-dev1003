@@ -12,14 +12,14 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 - 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
 - 📃 My resume: https://drive.google.com/file/d/1YCc3XIDaumO7QOkthZDFhP8oshUnf3wm/view?usp=drive_link
 
-### ---
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Sayantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sayantan-dev1003)
 
-### ---
+---
 
 ## 💻 **Skills & Tools**
 
