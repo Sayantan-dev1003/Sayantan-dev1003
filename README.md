@@ -102,7 +102,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="50" height="50">
 </a>
 <a href="https://www.prisma.io/">
-  <img src="https://www.prisma.io/logo-white.svg" alt="Prisma" width="140" height="50">
+  <img src="https://www.prisma.io/logo-white.svg" alt="Prisma" width="120" height="30">
 </a>
 <a href="https://git-scm.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
@@ -111,7 +111,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png" alt="AWS" width="50" height="50">
 </a>
 <a href="https://cloud.google.com/">
-  <img src="https://cdn.qwiklabs.com/assets/gcp_cloud-e3a77215f0b8bfa9b3f611c0d2208c7e8708ed31.svg" alt="GCP" width="160" height="50">
+  <img src="https://cdn.qwiklabs.com/assets/gcp_cloud-e3a77215f0b8bfa9b3f611c0d2208c7e8708ed31.svg" alt="GCP" width="50" height="50">
 </a>
 <a href="https://code.visualstudio.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50">
