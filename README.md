@@ -144,7 +144,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&no-frame=true&title=Followers,Stars,Commit,Repositories)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sayantan-dev1003)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayantan-dev1003&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Sayantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true)
