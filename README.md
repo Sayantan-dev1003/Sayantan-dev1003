@@ -56,13 +56,16 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
 </a>
 <a href="https://expressjs.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="120" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="140" height="50">
 </a>
 <a href="https://flask.palletsprojects.com/">
   <img src="https://digitalhumanity.co.za/wp-content/uploads/Flask-white.png.webp" alt="Flask" width="50" height="50">
 </a>
 <a href="https://fastapi.tiangolo.com/">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="120" height="50">
+</a>
+<a href="https://socket.io/">
+  <img src="https://socket.io/images/logo-dark.svg" alt="Socket IO" width="120" height="50">
 </a>
 <a href="https://www.mongodb.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
