@@ -62,54 +62,62 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://digitalhumanity.co.za/wp-content/uploads/Flask-white.png.webp" alt="Flask" width="50" height="50">
 </a>
 <a href="https://fastapi.tiangolo.com/">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="120" height="50">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="130" height="50">
 </a>
 <a href="https://socket.io/">
-  <img src="https://socket.io/images/logo-dark.svg" alt="Socket IO" width="120" height="50">
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
-</a>
-<a href="https://supabase.com/">
-  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="40" height="40">
-</a>
-<a href="https://www.postgresql.org/">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40">
+  <img src="https://socket.io/images/logo-dark.svg" alt="Socket IO" width="50" height="50">
 </a>
 
-<a href="https://www.mysql.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
-</a>
-<a href="https://scikit-learn.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40">
-</a>
+### Machine Learning
 <a href="https://numpy.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50">
 </a>
 <a href="https://pandas.pydata.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50">
+</a>
+<a href="https://scikit-learn.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50">
 </a>
 <a href="https://seaborn.pydata.org/">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="40">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="50">
 </a>
 <a href="https://opencv.org/">
-  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="40" height="40">
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="50">
 </a>
 <a href="https://www.tensorflow.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TenserFlow" width="70" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TenserFlow" width="80" height="50">
 </a>
 
-<a href="https://aws.amazon.com/">
-  <img src="https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png" alt="AWS" width="40" height="40">
+### Tools and Platform
+<a href="https://www.mongodb.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50">
+</a>
+<a href="https://supabase.com/">
+  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="50" height="50">
+</a>
+<a href="https://www.prisma.io/">
+  <img src="https://www.prisma.io/logo-white.svg" alt="Prisma" width="80" height="50">
 </a>
 <a href="https://git-scm.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
+</a>
+<a href="https://aws.amazon.com/">
+  <img src="https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png" alt="AWS" width="50" height="50">
+</a>
+<a href="https://cloud.google.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thu…le_Cloud_logo.svg/500px-Google_Cloud_logo.svg.png" alt="GCP" width="160" height="50">
 </a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50">
 </a>
 <a href="https://www.figma.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50">
 </a>
 
 ---
