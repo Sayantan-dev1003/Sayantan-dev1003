@@ -9,8 +9,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 - 🔭 I’m currently working on **EcoVision: AI for Urban Green Space Optimization**
 - 🌱 I’m currently learning Data Analytics and Machine Learning.
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
-- 👨‍💻 All of my projects are available at https://github.com/Sayantan-dev1003/
-- 📫 How to reach me: sayantanhalder78@gmail.com
+- 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
 - 📃 My resume: https://drive.google.com/file/d/1YCc3XIDaumO7QOkthZDFhP8oshUnf3wm/view?usp=drive_link
 
 ---
@@ -26,6 +25,9 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://www.javascript.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
 </a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png" alt="TypeScript" width="40" height="40">
+</a>
 <a href="https://tailwindcss.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60" height="40">
 </a>
@@ -37,6 +39,9 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 </a> 
 <a href="https://redux-toolkit.js.org/">
   <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux" width="60" height="40">
+</a>
+<a href="https://www.framer.com/">
+  <img src="https://images.seeklogo.com/logo-png/58/1/framer-icon-logo-png_seeklogo-586477.png" alt="Framer Motion" width="60" height="40">
 </a>
 <a href="https://nodejs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
@@ -50,8 +55,8 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://www.mongodb.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
 </a>
-<a href="https://www.prisma.io/">
-  <img src="https://prismalens.vercel.app/header/logo-white.svg" alt="Prisma" width="70" height="40">
+<a href="https://fastapi.tiangolo.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thu…/1/1a/FastAPI_logo.svg/330px-FastAPI_logo.svg.png" alt="FastAPI" width="70" height="40">
 </a>
 <a href="https://supabase.com/">
   <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="40" height="40">
