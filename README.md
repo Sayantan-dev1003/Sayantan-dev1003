@@ -145,10 +145,8 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 ---
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&no-frame=true&title=Followers,Stars,Commit,Repositories)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sayantan-dev1003&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Sayantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sayantan-dev1003)
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
-![Metrics](https://metrics.lecoq.io/Sayantan-dev1003?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
