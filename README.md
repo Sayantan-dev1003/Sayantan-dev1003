@@ -41,7 +41,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux" width="60" height="40">
 </a>
 <a href="https://motion.dev/">
-  <img src="https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc" alt="Framer Motion" width="60" height="40">
+  <img src="https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc" alt="Framer Motion" width="40" height="40">
 </a>
 <a href="https://nodejs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
@@ -56,10 +56,13 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
 </a>
 <a href="https://fastapi.tiangolo.com/">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="70" height="40">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100" height="40">
 </a>
 <a href="https://supabase.com/">
   <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="40" height="40">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40">
 </a>
 <a href="https://www.python.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
