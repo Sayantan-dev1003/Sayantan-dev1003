@@ -16,27 +16,25 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 
 ### 💻 **Skills & Tools**
 
-## Languages
+#### Languages
 <a href="https://www.javascript.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 </a>
 <a href="https://www.typescriptlang.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png" alt="TypeScript" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png" alt="TypeScript" width="50" height="50">
 </a>
 <a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
 </a>
 <a href="https://isocpp.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
 </a>
-
----
 
 ## Libraries & Frameworks
 <a href="https://tailwindcss.com/">
