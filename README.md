@@ -15,19 +15,30 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 ---
 
 ### 💻 **Skills & Tools**
- 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
-</a>
+
+## Languages
 <a href="https://www.javascript.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
 </a>
 <a href="https://www.typescriptlang.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png" alt="TypeScript" width="40" height="40">
 </a>
+<a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
+</a>
+
+---
+
+## Libraries & Frameworks
 <a href="https://tailwindcss.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60" height="40">
 </a>
@@ -64,9 +75,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://www.postgresql.org/">
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40">
 </a>
-<a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-</a>
+
 <a href="https://www.mysql.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
 </a>
@@ -88,9 +97,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://www.tensorflow.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TenserFlow" width="70" height="40">
 </a>
-<a href="https://isocpp.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
-</a>
+
 <a href="https://aws.amazon.com/">
   <img src="https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png" alt="AWS" width="40" height="40">
 </a>
