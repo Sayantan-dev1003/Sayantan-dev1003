@@ -26,22 +26,22 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 
 ### Languages
 <a href="https://www.javascript.com/">
-  <img src="https://svgstack.com/media/img/javascript-logo-aTvw830210.webp" alt="JavaScript" width="50" height="50">
+  <img src="https://svgstack.com/media/img/javascript-logo-aTvw830210.webp" alt="JavaScript" width="40" height="40">
 </a>
 <a href="https://www.typescriptlang.org/">
-  <img src="https://svgstack.com/media/img/typescript-logo-pLag014052.webp" alt="TypeScript" width="50" height="50">
+  <img src="https://svgstack.com/media/img/typescript-logo-pLag014052.webp" alt="TypeScript" width="40" height="40">
 </a>
 <a href="https://www.python.org/">
-  <img src="https://svgstack.com/media/img/python-logo-asZl301697.webp" alt="Python" width="50" height="50">
+  <img src="https://svgstack.com/media/img/python-logo-asZl301697.webp" alt="Python" width="40" height="40">
 </a>
 <a href="https://isocpp.org/">
-  <img src="https://svgstack.com/media/img/cpp-icon-logo-KGDZ707982.webp" alt="C++" width="50" height="50">
+  <img src="https://svgstack.com/media/img/cpp-icon-logo-KGDZ707982.webp" alt="C++" width="40" height="40">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://svgstack.com/media/img/html5-logo-zAU7788700.webp" alt="HTML5" width="50" height="50">
+  <img src="https://svgstack.com/media/img/html5-logo-zAU7788700.webp" alt="HTML5" width="40" height="40">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://svgstack.com/media/img/css-logo-PMH6780634.webp" alt="CSS3" width="50" height="50">
+  <img src="https://svgstack.com/media/img/css-logo-PMH6780634.webp" alt="CSS3" width="40" height="40">
 </a>
 
 ### Libraries & Frameworks
@@ -49,16 +49,16 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://svgstack.com/media/img/react-icon-2z46301699.webp" alt="React" width="40" height="40">
 </a>
 <a href="https://nextjs.org/">
-  <img src="https://svgstack.com/media/img/nextjs-logo-icon-4iCw221466.webp" alt="Next.js" width="50" height="50">
+  <img src="https://svgstack.com/media/img/nextjs-logo-icon-4iCw221466.webp" alt="Next.js" width="40" height="40">
 </a> 
 <a href="https://redux-toolkit.js.org/">
-  <img src="https://svgstack.com/media/img/redux-logo-6wjQ301701.webp" alt="Redux" width="50" height="50">
+  <img src="https://svgstack.com/media/img/redux-logo-6wjQ301701.webp" alt="Redux" width="40" height="40">
 </a>
 <a href="https://tailwindcss.com/">
-  <img src="https://svgstack.com/media/img/tailwindcss-logo-xM0R014051.webp" width="50" height="50">
+  <img src="https://svgstack.com/media/img/tailwindcss-logo-xM0R014051.webp" width="40" height="40">
 </a>
 <a href="https://gsap.com/">
-  <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" width="50" height="50">
+  <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" width="40" height="40">
 </a>
 <a href="https://motion.dev/">
   <img src="https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc" alt="Framer Motion" width="50" height="50">
