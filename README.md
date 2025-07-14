@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
 
-I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring AI Product Engineer with a strong foundation in AI/ML and Full Stack Web Development, I’m passionate about creating tech solutions that are not only innovative but also deeply user-centric. My interests span Web Development, AI, AWS cloud services, and competitive programming in C++. I thrive on turning ideas into impactful products that bridge the gap between cutting-edge technology and real-world needs.
+I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring Full Stack AI Product Engineer with a strong foundation in AI/ML and Full Stack Web Development, I’m passionate about creating tech solutions that are not only innovative but also deeply user-centric. My interests span Web Development, AI, AWS cloud services, and competitive programming in C++. I thrive on turning ideas into impactful products that bridge the gap between cutting-edge technology and real-world needs.
 
 - 🔭 I’m currently working on **EcoVision: AI for Urban Green Space Optimization**
 - 🌱 I’m currently learning Data Analytics and Machine Learning.
@@ -165,7 +165,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="Leetcode" width="40" height="40">
 </a>
 <a href="https://www.geeksforgeeks.org/user/sayantanhihnp/" target="_blank">
-  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG" width="40" height="40">
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG" width="50" height="50">
 </a>
 <a href="https://x.com/Sayantan101236" target="_blank">
   <img src="https://svgstack.com/media/img/ios-x-app-icon-b4cq638348.webp" alt="X" width="40" height="40">
