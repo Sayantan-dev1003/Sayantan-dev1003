@@ -60,26 +60,32 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://gsap.com/">
   <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" width="40" height="40">
 </a>
-<a href="https://motion.dev/">
-  <img src="https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc" alt="Framer Motion" width="50" height="50">
+<a href="https://www.framer.com/">
+  <img src="https://svgstack.com/media/img/framer-logo-icon-LecW788694.webp" alt="Framer Motion" width="40" height="40">
+</a>
+<a href="https://threejs.org/">
+  <img src="https://svgstack.com/media/img/three-js-logo-bwFQ014051.webp" alt="Three.js" width="40" height="40">
 </a>
 <a href="https://nodejs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
+  <img src="https://svgstack.com/media/img/nodejs-logo-2OjR221467.webp" alt="Node.js" width="40" height="40">
 </a>
 <a href="https://expressjs.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="140" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="120" height="40">
 </a>
 <a href="https://nestjs.com/">
-  <img src="https://svgstack.com/media/img/nestjs-logo-s8qw221464.webp" alt="NestJS" width="50" height="50">
+  <img src="https://svgstack.com/media/img/nestjs-logo-s8qw221464.webp" alt="NestJS" width="40" height="40">
 </a>
 <a href="https://flask.palletsprojects.com/">
-  <img src="https://digitalhumanity.co.za/wp-content/uploads/Flask-white.png.webp" alt="Flask" width="50" height="50">
+  <img src="https://svgstack.com/media/img/flask-programming-logo-NWK3788692.webp" alt="Flask" width="40" height="40">
 </a>
 <a href="https://fastapi.tiangolo.com/">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="130" height="50">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="110" height="40">
+</a>
+<a href="https://redis.io/">
+  <img src="https://svgstack.com/media/img/redis-logo-R6pB301700.webp" alt="FastAPI" width="40" height="40">
 </a>
 <a href="https://socket.io/">
-  <img src="https://socket.io/images/logo-dark.svg" alt="Socket IO" width="50" height="50">
+  <img src="https://socket.io/images/logo-dark.svg" alt="Socket IO" width="40" height="40">
 </a>
 
 ### Machine Learning
