@@ -49,7 +49,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
 </a>
 <a href="https://nextjs.org/">
-  <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" width="70" height="50">
+  <img src="https://svgstack.com/media/img/nextjs-logo-icon-4iCw221466.webp" alt="Next.js" width="50" height="50">
 </a> 
 <a href="https://redux-toolkit.js.org/">
   <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux" width="70" height="50">
