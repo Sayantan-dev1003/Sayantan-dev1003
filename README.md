@@ -137,7 +137,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://karmanivero.us/assets/images/logo-vercel.png" alt="Vercel" width="40" height="40">
 </a>
 <a href="https://render.com/">
-  <img src="https://georgian.io/wp-content/uploads/2025/01/Render-Logo-for-Companies-Page.png" alt="Render" width="120" height="60">
+  <img src="https://georgian.io/wp-content/uploads/2025/01/Render-Logo-for-Companies-Page.png" alt="Render" width="100" height="50">
 </a>
 <a href="https://graphql.org/">
   <img src="https://svgstack.com/media/img/graphql-liUC788697.webp" alt="GraphQL" width="40" height="40">
