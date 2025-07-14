@@ -26,36 +26,36 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 
 ### Languages
 <a href="https://www.javascript.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://svgstack.com/media/img/javascript-logo-aTvw830210.webp" alt="JavaScript" width="50" height="50">
 </a>
 <a href="https://www.typescriptlang.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png" alt="TypeScript" width="50" height="50">
+  <img src="https://svgstack.com/media/img/typescript-logo-pLag014052.webp" alt="TypeScript" width="50" height="50">
 </a>
 <a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+  <img src="https://svgstack.com/media/img/python-logo-asZl301697.webp" alt="Python" width="50" height="50">
 </a>
 <a href="https://isocpp.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50">
+  <img src="https://svgstack.com/media/img/cpp-icon-logo-KGDZ707982.webp" alt="C++" width="50" height="50">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
+  <img src="https://svgstack.com/media/img/html5-logo-zAU7788700.webp" alt="HTML5" width="50" height="50">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
+  <img src="https://svgstack.com/media/img/css-logo-PMH6780634.webp" alt="CSS3" width="50" height="50">
 </a>
 
 ### Libraries & Frameworks
 <a href="https://reactjs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
+  <img src="https://svgstack.com/media/img/react-icon-2z46301699.webp" alt="React" width="40" height="40">
 </a>
 <a href="https://nextjs.org/">
   <img src="https://svgstack.com/media/img/nextjs-logo-icon-4iCw221466.webp" alt="Next.js" width="50" height="50">
 </a> 
 <a href="https://redux-toolkit.js.org/">
-  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux" width="70" height="50">
+  <img src="https://svgstack.com/media/img/redux-logo-6wjQ301701.webp" alt="Redux" width="50" height="50">
 </a>
 <a href="https://tailwindcss.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="70" height="50">
+  <img src="https://svgstack.com/media/img/tailwindcss-logo-xM0R014051.webp" width="50" height="50">
 </a>
 <a href="https://gsap.com/">
   <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" width="50" height="50">
