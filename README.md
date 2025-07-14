@@ -10,7 +10,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 - 🌱 I’m currently learning Data Analytics and Machine Learning.
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
 - 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
-- 📃 My resume: https://drive.google.com/file/d/1YCc3XIDaumO7QOkthZDFhP8oshUnf3wm/view?usp=drive_link
+- 📃 My resume: https://drive.google.com/file/d/1A9enLXhMTADvHv3dFxIk_Wv6eh6GY7Eh/view?usp=drive_link
 
 ---
 
