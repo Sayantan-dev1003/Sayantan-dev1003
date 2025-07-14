@@ -107,54 +107,69 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 
 ### Tools and Platform
 <a href="https://www.mongodb.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50">
+  <img src="https://svgstack.com/media/img/mongo-db-logo-9SQs221463.webp" alt="MongoDB" width="40" height="40">
 </a>
 <a href="https://www.mysql.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+  <img src="https://svgstack.com/media/img/mysql-logo-H28l221464.webp" alt="MySQL" width="40" height="40">
 </a>
 <a href="https://www.postgresql.org/">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50">
-</a>
-<a href="https://supabase.com/">
-  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="50" height="50">
+  <img src="https://svgstack.com/media/img/postgre-sql-logo-svcs301691.webp" alt="PostgreSQL" width="40" height="40">
 </a>
 <a href="https://www.prisma.io/">
-  <img src="https://www.prisma.io/logo-white.svg" alt="Prisma" width="120" height="30">
+  <img src="https://svgstack.com/media/img/prisma-logo-6GfL301695.webp" alt="Prisma" width="40" height="40">
 </a>
-<a href="https://git-scm.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50">
-</a>
-<a href="https://aws.amazon.com/">
-  <img src="https://img.icons8.com/androidL/512/FFFFFF/amazon-web-services.png" alt="AWS" width="50" height="50">
+<a href="https://www.docker.com/">
+  <img src="https://svgstack.com/media/img/docker-logo-Mk3N788687.webp" alt="Docker" width="40" height="40">
 </a>
 <a href="https://cloud.google.com/">
-  <img src="https://cdn.qwiklabs.com/assets/gcp_cloud-e3a77215f0b8bfa9b3f611c0d2208c7e8708ed31.svg" alt="GCP" width="50" height="50">
+  <img src="https://svgstack.com/media/img/google-cloud-logo-gUTC788695.webp" alt="GCP" width="40" height="40">
 </a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50">
+<a href="https://aws.amazon.com/">
+  <img src="https://svgstack.com/media/img/amazon-aws-logo_1735162417.webp" alt="AWS" width="40" height="40">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://svgstack.com/media/img/git-logo-svg-IN4E788695.webp" alt="Git" width="40" height="40">
+</a>
+<a href="https://github.com/">
+  <img src="https://svgstack.com/media/img/github-logo-svg-hjE7788695.webp" alt="GitHub" width="40" height="40">
+</a>
+<a href="https://vercel.com/">
+  <img src="https://karmanivero.us/assets/images/logo-vercel.png" alt="Vercel" width="40" height="40">
+</a>
+<a href="https://render.com/">
+  <img src="https://georgian.io/wp-content/uploads/2025/01/Render-Logo-for-Companies-Page.png" alt="Render" width="40" height="40">
+</a>
+<a href="https://graphql.org/">
+  <img src="https://svgstack.com/media/img/graphql-liUC788697.webp" alt="GraphQL" width="40" height="40">
+</a>
+<a href="https://supabase.com/">
+  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="40" height="40">
 </a>
 <a href="https://www.figma.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
+</a>
+<a href="https://www.linux.org/">
+  <img src="https://svgstack.com/media/img/linux-logo-n35m830213.webp" alt="Linux" width="40" height="40">
 </a>
 
 ---
 
 ### Let's Connect
 <a href="https://www.linkedin.com/in/sayantan-halder/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="50" height="50">
+  <img src="https://svgstack.com/media/img/linkedin-app-icon-1QbG638349.webp" alt="LinkedIn" width="40" height="40">
 </a>
 <a href="mailto:sayantanhalder@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="60" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="50" height="40">
 </a>
 <a href="https://leetcode.com/u/vIkgaPmZuL/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="Leetcode" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="Leetcode" width="40" height="40">
 </a>
 <a href="https://www.geeksforgeeks.org/user/sayantanhihnp/" target="_blank">
-  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG" width="50" height="50">
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG" width="40" height="40">
 </a>
 <a href="https://x.com/Sayantan101236" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="X" width="50" height="50">
+  <img src="https://svgstack.com/media/img/ios-x-app-icon-b4cq638348.webp" alt="X" width="40" height="40">
 </a>
 <a href="https://www.reddit.com/user/ReactToNode10/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/375px-Reddit_Logo_Icon.svg.png" alt="Reddit" width="50" height="50">
+  <img src="https://svgstack.com/media/img/free-reddit-icon_1731104360.webp" alt="Reddit" width="40" height="40">
 </a>
