@@ -90,22 +90,19 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 
 ### Machine Learning
 <a href="https://numpy.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">
 </a>
 <a href="https://pandas.pydata.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
 </a>
 <a href="https://scikit-learn.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50">
-</a>
-<a href="https://seaborn.pydata.org/">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40">
 </a>
 <a href="https://opencv.org/">
-  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="50">
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="40" height="40">
 </a>
 <a href="https://www.tensorflow.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TenserFlow" width="80" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TenserFlow" width="60" height="40">
 </a>
 
 ### Tools and Platform
