@@ -57,6 +57,9 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://tailwindcss.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="70" height="50">
 </a>
+<a href="https://gsap.com/">
+  <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" width="50" height="50">
+</a>
 <a href="https://motion.dev/">
   <img src="https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc" alt="Framer Motion" width="50" height="50">
 </a>
@@ -65,6 +68,9 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 </a>
 <a href="https://expressjs.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="140" height="50">
+</a>
+<a href="https://nestjs.com/">
+  <img src="https://svgstack.com/media/img/nestjs-logo-s8qw221464.webp" alt="NestJS" width="50" height="50">
 </a>
 <a href="https://flask.palletsprojects.com/">
   <img src="https://digitalhumanity.co.za/wp-content/uploads/Flask-white.png.webp" alt="Flask" width="50" height="50">
