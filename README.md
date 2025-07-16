@@ -143,7 +143,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://svgstack.com/media/img/graphql-liUC788697.webp" alt="GraphQL" width="40" height="40">
 </a>
 <a href="https://supabase.com/">
-  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="50" height="30">
+  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="30" height="50">
 </a>
 <a href="https://www.figma.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
