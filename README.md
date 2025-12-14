@@ -1,20 +1,22 @@
 <h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
-<p align="center"> 💻 Computer Engineering Student | Aspiring AI Software Engineer | Full Stack Web Developer | AI/ML & Data Science Enthusiast | Provide AWS Cloud Services | Competitive Programming in C++ @LeetCode | Tech Innovator </p>
+<p align="center"> 💻 Computer Engineering Student Full Stack Developer | Software & ML Engineer | Tech Innovator | Building Scalable Platforms & High-Performance Apps | Programmer @LeetCode </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
 
-I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring Full Stack AI Product Engineer with a strong foundation in AI/ML and Full Stack Web Development, I’m passionate about creating tech solutions that are not only innovative but also deeply user-centric. My interests span Web Development, AI, AWS cloud services, and competitive programming in C++. I thrive on turning ideas into impactful products that bridge the gap between cutting-edge technology and real-world needs.
+I am Sayantan Halder, a pre-final year student pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring AI Software Engineer and Full Stack Developer with a track record of leading the design and execution of scalable, ML-driven products and distributed architectures. I specialize in orchestrating high-availability microservices, optimizing deep learning pipelines, and engineering real-time platforms using Next.js, Node.js, TensorFlow, and cloud-native technologies. I’ve driven end-to-end development of complex systems—including algorithm-visualization engines, healthcare AI platforms, and biometric access control pipelines—improving accuracy, latency, and system resiliency at scale. Recognized for technical leadership, high-ownership problem solving, and the ability to convert ambiguous ideas into robust, production-ready engineering solutions.
 
-- 🔭 I’m currently working on **EcoVision: AI for Urban Green Space Optimization**
-- 🌱 I’m currently learning Data Analytics and Machine Learning.
+I have actively participated in multiple hackathons where I collaborated on unique solutions and contributed as a Full Stack Developer. These experiences have honed my problem-solving skills, teamwork abilities, and commitment to delivering quality work.
+
+- 🔭 I’m currently working on **Automated Multi-Disease Detection from Chest X-Rays**
+- 🌱 I’m currently learning Deep Learning and Computer Vision.
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
 - 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
 - 📃 My resume: https://drive.google.com/file/d/1A9enLXhMTADvHv3dFxIk_Wv6eh6GY7Eh/view?usp=drive_link
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&margin-w=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&margin-w=15&no-frame=true)
 
 ![Sayantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true)
@@ -37,12 +39,6 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://isocpp.org/">
   <img src="https://svgstack.com/media/img/cpp-icon-logo-KGDZ707982.webp" alt="C++" width="40" height="40">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://svgstack.com/media/img/html5-logo-zAU7788700.webp" alt="HTML5" width="40" height="40">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://svgstack.com/media/img/css-logo-PMH6780634.webp" alt="CSS3" width="40" height="40">
-</a>
 
 ### Libraries & Frameworks
 <a href="https://reactjs.org/">
@@ -57,14 +53,8 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://tailwindcss.com/">
   <img src="https://svgstack.com/media/img/tailwindcss-logo-xM0R014051.webp" width="40" height="40">
 </a>
-<a href="https://gsap.com/">
-  <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" width="40" height="40">
-</a>
 <a href="https://www.framer.com/">
   <img src="https://svgstack.com/media/img/framer-logo-icon-LecW788694.webp" alt="Framer Motion" width="40" height="40">
-</a>
-<a href="https://threejs.org/">
-  <img src="https://svgstack.com/media/img/three-js-logo-bwFQ014051.webp" alt="Three.js" width="40" height="40">
 </a>
 <a href="https://nodejs.org/">
   <img src="https://svgstack.com/media/img/nodejs-logo-2OjR221467.webp" alt="Node.js" width="40" height="40">
@@ -81,11 +71,11 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://fastapi.tiangolo.com/">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="110" height="40">
 </a>
-<a href="https://redis.io/">
-  <img src="https://svgstack.com/media/img/redis-logo-R6pB301700.webp" alt="FastAPI" width="40" height="40">
-</a>
 <a href="https://socket.io/">
   <img src="https://socket.io/images/logo-dark.svg" alt="Socket IO" width="40" height="40">
+</a>
+<a href="https://graphql.org/">
+  <img src="https://svgstack.com/media/img/graphql-liUC788697.webp" alt="GraphQL" width="40" height="40">
 </a>
 
 ### Machine Learning
@@ -94,6 +84,9 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 </a>
 <a href="https://pandas.pydata.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
+</a>
+<a href="https://seaborn.pydata.org/">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40">
 </a>
 <a href="https://scikit-learn.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40">
@@ -105,7 +98,7 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TenserFlow" width="60" height="40">
 </a>
 
-### Tools and Platform
+### Databases
 <a href="https://www.mongodb.com/">
   <img src="https://svgstack.com/media/img/mongo-db-logo-9SQs221463.webp" alt="MongoDB" width="40" height="40">
 </a>
@@ -115,9 +108,11 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 <a href="https://www.postgresql.org/">
   <img src="https://svgstack.com/media/img/postgre-sql-logo-svcs301691.webp" alt="PostgreSQL" width="40" height="40">
 </a>
-<a href="https://www.prisma.io/">
-  <img src="https://svgstack.com/media/img/prisma-logo-6GfL301695.webp" alt="Prisma" width="40" height="40">
+<a href="https://redis.io/">
+  <img src="https://svgstack.com/media/img/redis-logo-R6pB301700.webp" alt="FastAPI" width="40" height="40">
 </a>
+
+### Tools and Platform
 <a href="https://www.docker.com/">
   <img src="https://svgstack.com/media/img/docker-logo-Mk3N788687.webp" alt="Docker" width="40" height="40">
 </a>
@@ -129,21 +124,6 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 </a>
 <a href="https://git-scm.com/">
   <img src="https://svgstack.com/media/img/git-logo-svg-IN4E788695.webp" alt="Git" width="40" height="40">
-</a>
-<a href="https://github.com/">
-  <img src="https://svgstack.com/media/img/github-logo-svg-hjE7788695.webp" alt="GitHub" width="40" height="40">
-</a>
-<a href="https://vercel.com/">
-  <img src="https://karmanivero.us/assets/images/logo-vercel.png" alt="Vercel" width="40" height="40">
-</a>
-<a href="https://render.com/">
-  <img src="https://georgian.io/wp-content/uploads/2025/01/Render-Logo-for-Companies-Page.png" alt="Render" width="100" height="50">
-</a>
-<a href="https://graphql.org/">
-  <img src="https://svgstack.com/media/img/graphql-liUC788697.webp" alt="GraphQL" width="40" height="40">
-</a>
-<a href="https://supabase.com/">
-  <img src="https://logowik.com/content/uploads/images/supabase-icon9119.logowik.com.webp" alt="SupaBase" width="40" height="100">
 </a>
 <a href="https://www.figma.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
@@ -169,7 +149,4 @@ I am Sayantan Halder, a Pre-Final student pursuing Computer Engineering at IITRA
 </a>
 <a href="https://x.com/Sayantan101236" target="_blank">
   <img src="https://svgstack.com/media/img/ios-x-app-icon-b4cq638348.webp" alt="X" width="40" height="40">
-</a>
-<a href="https://www.reddit.com/user/ReactToNode10/" target="_blank">
-  <img src="https://svgstack.com/media/img/free-reddit-icon_1731104360.webp" alt="Reddit" width="40" height="40">
 </a>
