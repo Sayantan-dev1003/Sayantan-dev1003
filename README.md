@@ -16,8 +16,6 @@ I have actively participated in multiple hackathons where I collaborated on uniq
 
 ---
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&margin-w=15&no-frame=true)
-
 ![Sayantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight)
@@ -86,10 +84,10 @@ I have actively participated in multiple hackathons where I collaborated on uniq
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
 </a>
 <a href="https://seaborn.pydata.org/">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="60">
 </a>
 <a href="https://scikit-learn.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60">
 </a>
 <a href="https://opencv.org/">
   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="35" height="40">
