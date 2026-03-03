@@ -12,12 +12,9 @@ I have actively participated in multiple hackathons where I collaborated on uniq
 - 🌱 I’m currently learning Deep Learning and Computer Vision.
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
 - 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
-- 📃 My resume: https://drive.google.com/file/d/1A9enLXhMTADvHv3dFxIk_Wv6eh6GY7Eh/view?usp=drive_link
 
 ---
 
-![Sayantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight)
 
 ---
