@@ -12,10 +12,8 @@ I have actively participated in multiple hackathons where I collaborated on uniq
 - 🌱 I’m currently learning Deep Learning and Computer Vision.
 - 💬 Ask me about web development, cloud computing or designing scalable web apps
 - 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
----
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight)
----
 
 ## 💻 **Skills & Tools**
 
@@ -124,7 +122,6 @@ I have actively participated in multiple hackathons where I collaborated on uniq
 <a href="https://www.linux.org/">
   <img src="https://svgstack.com/media/img/linux-logo-n35m830213.webp" alt="Linux" width="40" height="40">
 </a>
----
 
 ### Let's Connect
 <a href="https://www.linkedin.com/in/sayantan-halder/" target="_blank">
