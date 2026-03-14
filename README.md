@@ -10,7 +10,7 @@ I have actively participated in multiple hackathons where I collaborated on uniq
 
 - 🔭 I’m currently working on **Automated Multi-Disease Detection from Chest X-Rays**
 - 🌱 I’m currently learning Deep Learning and Computer Vision.
-- 💬 Ask me about web development, cloud computing or designing scalable web apps
+- 💬 Ask me about software engineering, system design and cloud computing.
 - 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight)
