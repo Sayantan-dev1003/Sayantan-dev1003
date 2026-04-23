@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
-<p align="center"> 💻 Computer Engineering Student | Full Stack Developer | Software & ML Engineer | Tech Innovator | Building Scalable Platforms & High-Performance Apps | Programmer @LeetCode </p>
+<p align="center"> Full Stack Engineer | Machine Learning Engineer | AI Software Innovator | Building Scalable Platforms & High-Performance Apps | Programmer @LeetCode </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Software+Innovator;Building+Scalable+ML+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Machine+Learning+Engineer;AI+Software+Innovator;Building+Scalable+Platforms+%26%+High+Performance+Apps" alt="Typing SVG" />
   </a>
 </p>
 
