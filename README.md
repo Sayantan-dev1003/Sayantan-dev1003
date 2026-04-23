@@ -2,7 +2,7 @@
 <p align="center"> 💻 Computer Engineering Student | Full Stack Developer | Software & ML Engineer | Tech Innovator | Building Scalable Platforms & High-Performance Apps | Programmer @LeetCode </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Sayantan%20Halder&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer&descSize=20&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=250&section=header&text=Sayantan%20Halder&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20%26%20ML%20Engineer%20|%20Tech%20Innovator%20|%20Building%20Scalable%20Platforms%20%26%20High-Performance%20Apps%20|%20Programmer%20@LeetCode&descSize=15&descAlignY=62" />
 </p>
 
 <p align="center">
