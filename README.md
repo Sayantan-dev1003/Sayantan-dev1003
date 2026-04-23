@@ -10,14 +10,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
 
-I am Sayantan Halder, a pre-final year student pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring AI Software Engineer and Full Stack Developer with a track record of leading the design and execution of scalable, ML-driven products and distributed architectures. I specialize in orchestrating high-availability microservices, optimizing deep learning pipelines, and engineering real-time platforms using Next.js, Node.js, TensorFlow, and cloud-native technologies. I’ve driven end-to-end development of complex systems—including algorithm-visualization engines, healthcare AI platforms, and biometric access control pipelines—improving accuracy, latency, and system resiliency at scale. Recognized for technical leadership, high-ownership problem solving, and the ability to convert ambiguous ideas into robust, production-ready engineering solutions.
+I am Sayantan Halder, a pre-final year student pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring AI Software Engineer and Full Stack Developer with a track record of leading the design and execution of scalable, ML-driven products and distributed architectures. I specialize in full-stack and backend engineering, working across the stack with TypeScript, React, NestJS, PostgreSQL, Redis, and Docker. I've had internships, built projects from scratch, and finished in the top 20 out of 500+ teams at a national hackathon. I like hard problems and I take the quality of my work seriously.
 
-I have actively participated in multiple hackathons where I collaborated on unique solutions and contributed as a Full Stack Developer. These experiences have honed my problem-solving skills, teamwork abilities, and commitment to delivering quality work.
-
-- 🔭 I’m currently working on **Automated Multi-Disease Detection from Chest X-Rays**
+- 🔭 I’m currently working on **Vision Transformer and CNN**
 - 🌱 I’m currently learning Deep Learning and Computer Vision.
 - 💬 Ask me about software engineering, system design and cloud computing.
-- 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight" alt="Sayantan's GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight" alt="GitHub Streak" />
