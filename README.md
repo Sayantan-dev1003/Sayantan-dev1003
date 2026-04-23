@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
 <p align="center"> 💻 Computer Engineering Student | Full Stack Developer | Software & ML Engineer | Tech Innovator | Building Scalable Platforms & High-Performance Apps | Programmer @LeetCode </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Sayantan%20Halder&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer&descSize=20&descAlignY=62" />
+</p>
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
 
@@ -13,13 +15,9 @@ I have actively participated in multiple hackathons where I collaborated on uniq
 - 💬 Ask me about software engineering, system design and cloud computing.
 - 🌐 My Portfolio: https://sayantan-dev-portfolio.vercel.app/
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight" alt="Sayantan's GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight" alt="Sayantan's GitHub Stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 ## 💻 **Skills & Tools**
 
