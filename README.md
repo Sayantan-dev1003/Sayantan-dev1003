@@ -1,8 +1,16 @@
 <h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
 <p align="center"> 💻 Computer Engineering Student | Full Stack Developer | Software & ML Engineer | Tech Innovator | Building Scalable Platforms & High-Performance Apps | Programmer @LeetCode </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=200&section=header&text=Sayantan%20Halder&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20ML%20Engineer&descSize=20&descAlignY=62" />
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Software+Innovator;Building+Scalable+ML+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
 
