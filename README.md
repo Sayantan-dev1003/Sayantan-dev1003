@@ -82,9 +82,6 @@ I am Sayantan Halder, a pre-final year student pursuing Computer Engineering at 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Let's Connect
-<p align="flex">
-<a href="https://www.linkedin.com/in/sayantan-halder/" target="_blank"><img src="https://svgstack.com/media/img/linkedin-app-icon-1QbG638349.webp" alt="LinkedIn" width="40" height="40"></a>
-<a href="mailto:sayantanhalder@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="50" height="35"></a>
-<a href="https://leetcode.com/u/vIkgaPmZuL/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Leetcode" width="40" height="40"></a>
-<a href="https://x.com/Sayantan101236" target="_blank"><img src="https://svgstack.com/media/img/ios-x-app-icon-b4cq638348.webp" alt="X" width="40" height="40"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-halder/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanhalder@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vIkgaPmZuL/)
