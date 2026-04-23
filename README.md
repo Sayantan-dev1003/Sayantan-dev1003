@@ -24,43 +24,42 @@ I am Sayantan Halder, a pre-final year student pursuing Computer Engineering at 
 
 ### Languages
 <p align="left">
-  <a href="https://www.javascript.com/"><img src="https://svgstack.com/media/img/javascript-logo-aTvw830210.webp" alt="JavaScript" width="40" height="40"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://svgstack.com/media/img/typescript-logo-pLag014052.webp" alt="TypeScript" width="40" height="40"></a>
-  <a href="https://www.python.org/"><img src="https://svgstack.com/media/img/python-logo-asZl301697.webp" alt="Python" width="40" height="40"></a>
-  <a href="https://isocpp.org/"><img src="https://svgstack.com/media/img/cpp-icon-logo-KGDZ707982.webp" alt="C++" width="40" height="40"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
 
 ### Libraries & Frameworks
 <p align="left">
-  <a href="https://reactjs.org/"><img src="https://svgstack.com/media/img/react-icon-2z46301699.webp" alt="React" width="40" height="40"></a>
-  <a href="https://nextjs.org/"><img src="https://svgstack.com/media/img/nextjs-logo-icon-4iCw221466.webp" alt="Next.js" width="40" height="40"></a>
-  <a href="https://redux-toolkit.js.org/"><img src="https://svgstack.com/media/img/redux-logo-6wjQ301701.webp" alt="Redux" width="40" height="40"></a>
-  <a href="https://tailwindcss.com/"><img src="https://svgstack.com/media/img/tailwindcss-logo-xM0R014051.webp" width="40" height="40"></a>
-  <a href="https://www.framer.com/"><img src="https://svgstack.com/media/img/framer-logo-icon-LecW788694.webp" alt="Framer Motion" width="40" height="40"></a>
-  <a href="https://nodejs.org/"><img src="https://svgstack.com/media/img/nodejs-logo-2OjR221467.webp" alt="Node.js" width="40" height="40"></a>
-  <a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="100" height="35"></a>
-  <a href="https://nestjs.com/"><img src="https://svgstack.com/media/img/nestjs-logo-s8qw221464.webp" alt="NestJS" width="40" height="40"></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100" height="35"></a>
-  <a href="https://socket.io/"><img src="https://socket.io/images/logo-dark.svg" alt="Socket IO" width="40" height="40"></a>
-  <a href="https://graphql.org/"><img src="https://svgstack.com/media/img/graphql-liUC788697.webp" alt="GraphQL" width="40" height="40"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
 </p>
 
 ### Machine Learning
 <p align="left">
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="30"></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="40"></a>
-  <a href="https://opencv.org/"><img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="40" height="40"></a>
-  <a href="https://www.tensorflow.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="40"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 </p>
 
 ### Databases
 <p align="left">
-  <a href="https://www.mongodb.com/"><img src="https://svgstack.com/media/img/mongo-db-logo-9SQs221463.webp" alt="MongoDB" width="40" height="40"></a>
-  <a href="https://www.mysql.com/"><img src="https://svgstack.com/media/img/mysql-logo-H28l221464.webp" alt="MySQL" width="40" height="40"></a>
-  <a href="https://www.postgresql.org/"><img src="https://svgstack.com/media/img/postgre-sql-logo-svcs301691.webp" alt="PostgreSQL" width="40" height="40"></a>
-  <a href="https://redis.io/"><img src="https://svgstack.com/media/img/redis-logo-R6pB301700.webp" alt="Redis" width="40" height="40"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
 </p>
 
 ### Let's Connect
