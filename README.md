@@ -8,13 +8,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayantan-halder-bb601828b)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanhalder1003@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pWO6rJCSJ2/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayantan-dev1003)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sayantan-dev-portfolio.vercel.app/)
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayantan-halder-bb601828b)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanhalder1003@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pWO6rJCSJ2/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayantan-dev1003)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sayantan-dev-portfolio.vercel.app/)
 
 
 I am Sayantan Halder, a final year student pursuing Computer Engineering at IITRAM, Ahmedabad. Full stack engineer with experience shipping production features across React/Next frontends and Go/Python backends. Proficient in Go, TypeScript, Python, Node.js. Built real-time collaborative systems and event-driven pipelines serving thousands of concurrent users.
