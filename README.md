@@ -3,10 +3,41 @@
 <p align="center"> Building scalable backend systems, distributed applications and production-ready software. </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Backend+Engineer;Building+Distributed+Systems;Go+%7C+Python+%7C+TypeScript+%7CNode.js;Cloud+%26+DevOps+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Backend+Engineer;Building+Distributed+Systems;Go+%7C+Python+%7C+TypeScript+%7C+Node.js;Cloud+%26+DevOps+Enthusiast" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayantan-halder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sayantanhalder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sayantan-dev1003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/vIkgaPmZuL/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/sayantanhalder10" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 ---
 
 I am Sayantan Halder, a final year student pursuing Computer Engineering at IITRAM, Ahmedabad. Full stack engineer with experience shipping production features across React/Next frontends and Go/Python backends. Proficient in Go, TypeScript, Python, Node.js. Built real-time collaborative systems and event-driven pipelines serving thousands of concurrent users.
