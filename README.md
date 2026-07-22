@@ -14,11 +14,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayantan-dev1003)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sayantan-dev-portfolio.vercel.app/)
 
-
 I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about building scalable backend systems, distributed applications, and production-ready software. I enjoy designing performant APIs, real-time systems, and cloud-native applications using Go, Python, TypeScript, and modern backend technologies. Beyond development, I'm exploring system design, distributed systems, DevOps, and cloud infrastructure while continuously improving my software engineering skills.
 
 ## 🚀 Current Focus
-
 - 🔥 Building **Aegis**, a Real-Time Fraud Detection System
 - ⚙️ Learning **Distributed Systems & Advanced System Design**
 - ☁️ Exploring **AWS, Docker, Kubernetes & DevOps**
@@ -26,7 +24,6 @@ I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about buildi
 - 📖 Solving DSA & preparing for Software Engineering interviews
 
 ## 💡 What I Enjoy Building
-
 - ⚡ High-performance Backend APIs
 - 🌐 Distributed Systems
 - ☁️ Cloud-Native Applications
@@ -34,7 +31,6 @@ I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about buildi
 - 🤖 Machine Learning Powered Applications
 
 ## 📚 Currently Learning
-
 - Distributed Systems
 - Kubernetes
 - AWS
@@ -42,11 +38,11 @@ I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about buildi
 - Golang Internals
 
 ## 🤝 Open To
-
 - Software Engineering Internships
 - Backend Engineering Roles
 - Open Source Collaboration
 - Interesting Full Stack Projects
+
 
 ## 📊 GitHub Stats
 ### 🔥 GitHub Streak
@@ -71,6 +67,7 @@ I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about buildi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayantan-dev1003&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayantan-dev1003&theme=tokyonight&utcOffset=5.5" />
 </p>
+
 
 ## 🚀 Featured Projects
 
@@ -104,7 +101,7 @@ A healthcare platform enabling remote consultations, patient management, and sec
 
 **Tech:** React • Node.js • Express • MongoDB • TypeScript
 
----
+
 ## 💻 **Skills & Tools**
 
 ### Languages
@@ -174,7 +171,7 @@ A healthcare platform enabling remote consultations, patient management, and sec
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
----
+
 ## 📫 Let's Connect
 I'm always open to collaborating on backend systems, full-stack applications, and open-source projects.
 <p align="center">
