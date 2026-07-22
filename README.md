@@ -72,15 +72,47 @@ I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about buildi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayantan-dev1003&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-### 📈 GitHub Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sayantan-dev1003/Sayantan-dev1003/main/github-metrics.svg" />
-</p>
+## 🚀 Featured Projects
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sayantan-dev1003/Sayantan-dev1003/output/github-contribution-grid-snake-dark.svg" />
-</p>
+### 🛡️ Aegis — Real-Time Fraud Detection System
+Production-grade event-driven fraud detection pipeline built with Go + Python + Next.js. Every transaction flows through a durable Kafka pipeline, gets scored by an XGBoost ML model with SHAP explainability, and surfaces on a live analyst dashboard in real time via WebSocket — with end-to-end distributed tracing across all services.
+
+**Tech:** Go • Python • Kafka • FastAPI • XGBoost • PostgreSQL • Redis • Docker • Next.js • Grafana • Prometheus
+
+---
+
+### 🚗 CarStock — Complete Inventory & Billing Management for Car Accessories Shops
+A mobile-first inventory and billing platform for automobile accessory shops with real-time stock synchronization, PDF invoice generation, WhatsApp & email delivery via queues, FCM push alerts, vehicle profiles & automated service reminders, authentication, and admin dashboard.
+
+**Tech:** NestJS • React Native • PostgreSQL • Redis • TypeScript • Firebase • Socket-io • BullMQ
+
+---
+
+### 📋 Lumora — Collaborative Task Management Platform
+A real-time collaborative workspace inspired by Trello and Notion inspired by Trello and Notion. It empowers users to create boards, manage task lists, and collaborate with team members instantaneously. With features like drag-and-drop task management, real-time updates, and comprehensive activity tracking, Lumora serves as a centralized hub for productivity.
+
+**Tech:** React • Next.js • Node.js • PostgreSQL • Prisma • TypeScript • Socket-io  • Zustand
+
+---
+
+### 🧠 Brain Tumor MRI Classifier
+Vision Transformer-based brain tumor classification with Grad-CAM visualizations to improve interpretability for medical imaging.
+
+**Tech:** Python • PyTorch • Vision Transformer • OpenCV • Streamlit
+
+---
+
+### 🩻 Automated Multi-Disease Detection from Chest X-Rays
+Deep learning pipeline for detecting multiple thoracic diseases from chest X-ray images with preprocessing, training, evaluation, and explainability.
+
+**Tech:** Python • TensorFlow • Keras • OpenCV
+
+---
+
+### 🏥 TeleMedicine SIH
+A healthcare platform built during SIH, enabling remote consultations, patient management, and secure communication between patients and healthcare providers.
+
+**Tech:** React • Node.js • Express • MongoDB • TypeScript
 
 ## 💻 **Skills & Tools**
 
