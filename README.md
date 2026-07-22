@@ -79,41 +79,32 @@ Production-grade event-driven fraud detection pipeline built with Go + Python + 
 
 **Tech:** Go • Python • Kafka • FastAPI • XGBoost • PostgreSQL • Redis • Docker • Next.js • Grafana • Prometheus
 
----
-
 ### 🚗 CarStock — Complete Inventory & Billing Management for Car Accessories Shops
 A mobile-first inventory and billing platform for automobile accessory shops with real-time stock synchronization, PDF invoice generation, WhatsApp & email delivery via queues, FCM push alerts, vehicle profiles & automated service reminders, authentication, and admin dashboard.
 
 **Tech:** NestJS • React Native • PostgreSQL • Redis • TypeScript • Firebase • Socket-io • BullMQ
-
----
 
 ### 📋 Lumora — Collaborative Task Management Platform
 A real-time collaborative workspace inspired by Trello and Notion inspired by Trello and Notion. It empowers users to create boards, manage task lists, and collaborate with team members instantaneously. With features like drag-and-drop task management, real-time updates, and comprehensive activity tracking, Lumora serves as a centralized hub for productivity.
 
 **Tech:** React • Next.js • Node.js • PostgreSQL • Prisma • TypeScript • Socket-io  • Zustand
 
----
-
 ### 🧠 Brain Tumor MRI Classifier
 Vision Transformer-based brain tumor classification with Grad-CAM visualizations to improve interpretability for medical imaging.
 
 **Tech:** Python • PyTorch • Vision Transformer • OpenCV • Streamlit
-
----
 
 ### 🩻 Automated Multi-Disease Detection from Chest X-Rays
 Deep learning pipeline for detecting multiple thoracic diseases from chest X-ray images with preprocessing, training, evaluation, and explainability.
 
 **Tech:** Python • TensorFlow • Keras • OpenCV
 
----
-
 ### 🏥 TeleMedicine SIH
 A healthcare platform enabling remote consultations, patient management, and secure communication between patients and healthcare providers.
 
 **Tech:** React • Node.js • Express • MongoDB • TypeScript
 
+---
 ## 💻 **Skills & Tools**
 
 ### Languages
@@ -179,12 +170,13 @@ A healthcare platform enabling remote consultations, patient management, and sec
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-# Testing Tools
+### Testing Tools
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-halder/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanhalder@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vIkgaPmZuL/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sayantanhalder10)
+---
+## 📫 Let's Connect
+I'm always open to collaborating on backend systems, full-stack applications, and open-source projects.
+<p align="center">
+Thanks for visiting! ⭐ If you like my work, consider following me.
+</p>
