@@ -25,6 +25,31 @@ I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about buildi
 - 🦫 Building scalable backend services with **Go**
 - 📖 Solving DSA & preparing for Software Engineering interviews
 
+## 💡 What I Enjoy Building
+
+- ⚡ High-performance Backend APIs
+- 🌐 Distributed Systems
+- ☁️ Cloud-Native Applications
+- 🔄 Event-Driven Architectures
+- 🤖 Machine Learning Powered Applications
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Kubernetes
+- AWS
+- System Design
+- Golang Internals
+
+## 🤝 Open To
+
+- Software Engineering Internships
+- Backend Engineering Roles
+- Open Source Collaboration
+- Interesting Full Stack Projects
+
+## 📊 GitHub Stats
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight" alt="Sayantan's GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight" alt="GitHub Streak" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight" alt="Top Langs" />
