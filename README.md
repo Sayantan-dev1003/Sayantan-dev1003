@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
-<p align="center"> Final-Year CS Student | Backend & Full Stack Engineer (SDE) | Python · Go · TypeScript · Node.js | Building Scalable Backend Systems & APIs </p>
+<p align="center"> Backend Engineer • Full Stack Developer • Software Engineer </p>
+<p align="center"> Building scalable backend systems, distributed applications and production-ready software. </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Backend+Engineer;Software+Engineer;Building+Scalable+Systems+and+APIs; alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Backend+Engineer;Building+Distributed+Systems;Go+%7C+Python+%7C+TypeScript+%7CNode.js;Cloud+%26+DevOps+Enthusiast" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
