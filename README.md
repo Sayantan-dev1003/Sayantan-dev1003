@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Sayantan Halder! 👋</h1>
-<p align="center"> Full Stack Engineer | Machine Learning Engineer | AI Software Innovator | Building Scalable Platforms & High-Performance Apps | Programmer @LeetCode </p>
+<p align="center"> Final-Year CS Student | Backend & Full Stack Engineer (SDE) | Python · Go · TypeScript · Node.js | Building Scalable Backend Systems & APIs </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Machine+Learning+Engineer;AI+Software+Innovator;Building+Scalable+Platforms+%26+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Backend+Engineer;Software+Engineer;Building+Scalable+Systems+and+APIs alt="Typing SVG" />
   </a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sayantan-dev1003&color=blue)
 ---
 
-I am Sayantan Halder, a pre-final year student pursuing Computer Engineering at IITRAM, Ahmedabad. As an aspiring AI Software Engineer and Full Stack Developer with a track record of leading the design and execution of scalable, ML-driven products and distributed architectures. I specialize in full-stack and backend engineering, working across the stack with TypeScript, React, NestJS, PostgreSQL, Redis, and Docker. I've had internships, built projects from scratch, and finished in the top 20 out of 500+ teams at a national hackathon. I like hard problems and I take the quality of my work seriously.
+I am Sayantan Halder, a final year student pursuing Computer Engineering at IITRAM, Ahmedabad. Full stack engineer with experience shipping production features across React/Next frontends and Go/Python backends. Proficient in Go, TypeScript, Python, Node.js. Built real-time collaborative systems and event-driven pipelines serving thousands of concurrent users.
 
-- 🔭 I’m currently working on **Vision Transformer and CNN**
-- 🌱 I’m currently learning Deep Learning and Computer Vision.
+- 🔭 I’m currently working on **Real-Time Fraud Detection System**
+- 🌱 I’m currently learning System Design, Distributed Systems, and exploring more in Golang.
 - 💬 Ask me about software engineering, system design and cloud computing.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight" alt="Sayantan's GitHub Stats" />
