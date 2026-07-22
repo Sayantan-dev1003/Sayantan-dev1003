@@ -50,11 +50,19 @@ I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about buildi
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=Sayantan-dev1003&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sayantan-dev1003&theme=tokyo-night&hide_border=true)
-![](https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Sayantan-dev1003&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantan-dev1003&theme=tokyo-night&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 ## 💻 **Skills & Tools**
 
