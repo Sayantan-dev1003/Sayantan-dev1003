@@ -49,19 +49,37 @@ I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about buildi
 - Interesting Full Stack Projects
 
 ## 📊 GitHub Stats
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sayantan-dev1003&theme=tokyonight&hide_border=true" />
+</p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Sayantan-dev1003&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-dev1003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantan-dev1003&theme=tokyo-night&hide_border=true" />
 </p>
+
+### 📊 GitHub Profile Summary
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayantan-dev1003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayantan-dev1003&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayantan-dev1003&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayantan-dev1003&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayantan-dev1003&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayantan-dev1003&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+### 📈 GitHub Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sayantan-dev1003/Sayantan-dev1003/main/github-metrics.svg" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sayantan-dev1003/Sayantan-dev1003/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 💻 **Skills & Tools**
