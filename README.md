@@ -15,11 +15,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sayantan-dev-portfolio.vercel.app/)
 
 
-I am Sayantan Halder, a final year student pursuing Computer Engineering at IITRAM, Ahmedabad. Full stack engineer with experience shipping production features across React/Next frontends and Go/Python backends. Proficient in Go, TypeScript, Python, Node.js. Built real-time collaborative systems and event-driven pipelines serving thousands of concurrent users.
+I'm a Computer Engineering student at IITRAM, Ahmedabad, passionate about building scalable backend systems, distributed applications, and production-ready software. I enjoy designing performant APIs, real-time systems, and cloud-native applications using Go, Python, TypeScript, and modern backend technologies. Beyond development, I'm exploring system design, distributed systems, DevOps, and cloud infrastructure while continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on **Real-Time Fraud Detection System**
-- 🌱 I’m currently learning System Design, Distributed Systems, and exploring more in Golang.
-- 💬 Ask me about software engineering, system design and cloud computing.
+## 🚀 Current Focus
+
+- 🔥 Building **Aegis**, a Real-Time Fraud Detection System
+- ⚙️ Learning **Distributed Systems & Advanced System Design**
+- ☁️ Exploring **AWS, Docker, Kubernetes & DevOps**
+- 🦫 Building scalable backend services with **Go**
+- 📖 Solving DSA & preparing for Software Engineering interviews
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayantan-dev1003&show_icons=true&theme=tokyonight" alt="Sayantan's GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Sayantan-dev1003&theme=tokyonight" alt="GitHub Streak" />
